@@ -1,0 +1,5 @@
+print('__Algoritmo  para o  calculo da area de um retangulo__')
+l: float = input('l mede: ')
+h: float = input('h mede: ')
+a = float(l) * float(h)
+print(f'A area  do retangulo de lado {l} e altura {h} é: {a}')
